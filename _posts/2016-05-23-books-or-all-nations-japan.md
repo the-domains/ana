@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://allnationsjapan.com/books/'
 title: 'Books | All Nations Japan'
-datePublished: '2016-05-23T04:38:24.367Z'
-dateModified: '2016-05-23T04:21:48.253Z'
-starred: false
+datePublished: '2016-05-23T04:39:13.116Z'
+dateModified: '2016-05-23T04:39:12.819Z'
 sourcePath: _posts/2016-05-23-books-or-all-nations-japan.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
