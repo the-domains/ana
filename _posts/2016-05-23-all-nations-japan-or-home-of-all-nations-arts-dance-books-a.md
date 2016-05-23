@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-23T04:38:24.368Z'
+datePublished: '2016-05-23T04:38:55.254Z'
 sourcePath: _posts/2016-05-23-all-nations-japan-or-home-of-all-nations-arts-dance-books-a.md
 isBasedOnUrl: 'http://allnationsjapan.com'
 keywords: []
 related: []
 author: []
-dateModified: '2016-05-23T04:26:54.169Z'
+dateModified: '2016-05-23T04:38:54.988Z'
 title: 'All Nations Japan | Home of All Nations Arts, Dance, Books and other creative pursuits'
 app_links: []
 publisher:
@@ -15,7 +15,7 @@ publisher:
   domain: allnationsjapan.com
 description: JR東青梅駅と青梅駅のちょうど真ん中、徒歩圏にあたらしく ...
 inLanguage: ja
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
