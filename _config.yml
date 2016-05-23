@@ -1,0 +1,14 @@
+layout_spectrum: 0.6047007204033434
+typography_spectrum: 0.716324124019593
+color:
+  brandStrength: 0.48541441443376243
+  lightness: 0.1862136733252555
+  saturation: 0.3736924077384174
+  rhythmicContrast: 0.6412561186589301
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ANA
