@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ANA]]></title>
         <description><![CDATA[ANA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 02:59:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 02:59:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ana/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Headspace App Launches Personal Meditative Pods]]></title>
+            <description><![CDATA[<article><h1>Headspace App Launches Personal Meditative Pods</h1><p>More than five million people globally have used guided meditation service Headspace. There's an invaluable ease to using their service (especially the free app) and it has opened the doors of meditation to many. Now, the acclaimed team behind the app have produced a different sort of tool for meditation: a private nature-inspired pod made in collaboration with architect duo Oyler Wu.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ec8782033d6ec0185688a89ac59831c73a6e4a0.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/headspace-app-meditative-pods</link>
+            <guid isPermaLink="false">c63a2a03-f2ed-4a15-9745-4ce15fbd003e</guid>
+            <pubDate>Mon, 23 May 2016 02:59:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
             <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg"></article>]]></description>
